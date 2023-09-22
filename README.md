@@ -22,6 +22,7 @@ Shopsy was written by a four person team of aspiring software developers during 
    * https://github.com/xShirokuma
  * Jen Liu
    * https://github.com/JENLIU2023
+   * https://www.linkedin.com/in/jen-liu-8862b9281/
  * Matthew Almeida
    * https://github.com/ImTheChosen0ne
    * https://www.linkedin.com/in/matthew-almeida-103425183/
